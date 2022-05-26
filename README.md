@@ -2,6 +2,8 @@
 
 You can run this [here](https://replit.com/@malikmmusa/boilerplate-time-calculator#main.py)
 
+This program adds two times together and returns the final time (and optionally day)
+
 Example usage:
 <pre>
 add_time("11:43 AM", "00:20")
